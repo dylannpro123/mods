@@ -63,6 +63,7 @@ local ModIDs = {
 3601261573, -- cashapp
 3421764470, -- body's buyer
 2636897272, -- bodys buyer
+191399323,  -- Bodys buyer(by body)
 2578531818, -- me
 }
 
