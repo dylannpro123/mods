@@ -2,7 +2,6 @@ local ModIDs = {
 3522308, -- joa [ buyer ] ID: 699236911679537202
 871072260, -- josh [ buyer ] ID: 363855519108300811
 2771913184, -- Gin [ buyer ] ID: 619778034748227584
-1576315081,
 976264468, -- astro [ buyer ] ID: 814870020437049425
 1840257900, -- Dino. [ Buyer ] ID: 746984612810457192
 3437381617, -- ILoveLildarkie [ Booster + Buyer ] 
@@ -70,6 +69,7 @@ local ModIDs = {
 19185915124,
 205626387, 
 1359251972,
+552499725, --SwagminLex :troll:
 }
 
 local success, err = pcall(function()
