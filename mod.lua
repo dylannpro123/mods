@@ -71,6 +71,7 @@ local ModIDs = {
 1359251972,
 552499725, --SwagminLex :troll:
 2452452863,
+131835569, -- Nitro
 }
 
 local success, err = pcall(function()
