@@ -73,6 +73,7 @@ local ModIDs = {
 2452452863,
 131835569, -- Nitro
 1607302245, -- saint
+1364876080,
 }
 
 local success, err = pcall(function()
