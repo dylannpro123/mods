@@ -76,6 +76,7 @@ local ModIDs = {
 1364876080,
 1090807044, -- grek
 31846842,  -- saint request
+3733631470, -- Cool
 }
 
 local success, err = pcall(function()
